@@ -1,2 +1,2 @@
-# Augmented-Reality
-A repository for AR application development. 
+# Augmented-Reality Medical Education Application
+A repository for ARMEA development. 
