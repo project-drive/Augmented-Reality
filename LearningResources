@@ -1,0 +1,9 @@
+ The new information is that we cannot use face recognition directly in Unity, 
+ as ARCore doesn't support hence what we are going to do is install OpenCV,
+ and then integrate it Unity. 
+ Also the coding part now has the possibility of getting kinda messy as C++ comes in the picture now along with C#.
+ You learn the integration part in the link below.
+ 
+ https://thomasmountainborn.com/2016/09/11/unity-and-opencv-part-one-install/
+ 
+ You can go to the next parts from the same.
